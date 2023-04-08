@@ -11,7 +11,7 @@
         border-radius: 10px;
         min-height: 303px;
         margin: 24px;
-        background: url('/assets/images/image-equilibrium.jpg') no-repeat;
+        background: url('../assets/images/image-equilibrium.jpg') no-repeat;
         background-position: center;
         background-size: contain;
         overflow: hidden;
@@ -27,7 +27,7 @@
         &:after {
             position: absolute;
             content: '';
-            background: url("/assets/images/icon-view.svg") no-repeat rgb(0 255 247 / 45%);
+            background: url("../assets/images/icon-view.svg") no-repeat rgb(0 255 247 / 45%);
             background-position: center;
             background-size: auto;
             width: 100%;
